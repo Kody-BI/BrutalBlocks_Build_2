@@ -1,3 +1,4 @@
+// Test
 const cacheName = "DefaultCompany-BrutalBlocks_Unity-1.0";
 const contentToCache = [
     "Build/8-1-24--1.loader.js",
